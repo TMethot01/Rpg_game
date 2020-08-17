@@ -1,0 +1,28 @@
+##  ->  fixes
+**  ->  maybe
+
+MAGIC (mag_atk, mag_def)
+elemental dmg and immunities
+skills
+enchant items
+materials**
+classes: mermaid, wizard, elf, warrior, rogue, fire-bender, water-bender, air-bender, earth-bender
+different environments that give certain buffs
+easter eggs ofc
+pets
+shops
+blacksmith**
+find a way to get it to appear in a window: possibly make an app or a web app
+make an inventory with object stacking
+leveling system
+quests
+passives for leveling
+auto-battle
+name selection
+ambush
+dodging
+weapons and armor w cool stats and descriptions
+random messages
+save files
+days and sleep
+eating

@@ -1,0 +1,8 @@
+item,item_type,description,sell_value,atk_boost,def_boost,chc_boost,chd_boost
+wooden_sword,weapon,It's a wooden sword,1,2,0,0,0
+stone_sword,weapon,It's a stone sword,15,5,0,0,0
+cloth_boots,foot_armor,cloth boots,2,0,2,0,0
+cloth shirt,chest_armor,cloth_shirt,5,0,4,0,0
+cloth_cap,head_armor,cloth_cap,3,0,3,0,0
+cloth_pants,leg_armor,cloth_pants,4,0,3,0,0
+garnet,valuable,can sell for a good price,300,0,0,0,0

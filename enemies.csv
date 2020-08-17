@@ -1,0 +1,3 @@
+name,atk,health,def,gold_drop,droprate1,droprate2,droprate3,item1,item2,item3
+zombie,2,8,5,5,95,5,0,wooden_sword,cloth_boots,nothing
+mummy,5,40,15,15,30,6,1,stone_sword,cloth_shirt,garnet

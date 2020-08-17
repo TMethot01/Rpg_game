@@ -1,0 +1,4 @@
+item,item_type,quantity,equipped
+stick,weapon,1,False
+wooden_sword,weapon,1,True
+hat,head_armor,1,True
